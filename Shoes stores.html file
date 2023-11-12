@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+   <head>
+	   <title>HIGH QUALITY SHOES IN OUR STORE</title>
+   </head>
+	<body><style> body {background-color: green; margin-top: 100px; margin-bottom: 100px; margin-right: 150px; margin-left: 80px;} </style>
+	     <h1>Welcome to our outfit store! make an order today and have your shoe Tomorow</h1>
+		<h2>
+		<img src="sneake.jpg" alt="shoe" width="300" height="250"> <br> Sneekers<br>Price $23 
+		<form> Size: <input type="number" name="Quantity" min="39" max="45"required> Quantity: <input type="number" min="1"required><input type="Submit"></form><br>
+		<img src="FFE.jpg" alt="shoe" width="300" height="250"> <br> Sneekers<br>Price $15
+		<form> Size: <input type="number" name="Quantity" min="38" max="44"required> Quantity: <input type="number"min="7"required><input type="Submit"></form><br>
+		<img src="Tokyo.jpg" alt="shoe" width="300" height="250"> <br> Sneekers<br>Price $20
+		<form> Size: <input type="number" name="Quantity" min="39" max="45"required> Quantity: <input type="number"min="10"required><input type="Submit"></form><br>
+		<img src="ask.jpg" alt="shoe" width="300" height="250"> <br> Sneekers<br>Price $30 select size
+		<form> Size: <input type="number" name="Quantity" min="37" max="44"required> Quantity: <input type="number" min="3"required><input type="Submit"></form>
+		</h2>
+		<h3>
+		<li class="log_out">
+          <a href="Login.html file">
+            <i class='bx bx-log-out'></i>
+            <span class="links_name">Log out</span>
+          </a>
+        </li>
+		</h3>
+	</body>
+</html>
